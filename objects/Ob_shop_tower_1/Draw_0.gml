@@ -2,7 +2,7 @@
 // You can write your code in this editor
 draw_self()
 draw_set_font(F_main)
-with(instance_nearest(x,y, Ob_Towers)){
+with(near_id){
 	
 draw_text(x-390,y-80,name)
 draw_text(x-390,y+25,"Урон:" + string( damage))
