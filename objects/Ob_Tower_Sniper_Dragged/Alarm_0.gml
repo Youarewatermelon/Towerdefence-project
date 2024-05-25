@@ -7,6 +7,9 @@ if instance_exists(objecttoshoot){
 	line=true
 	alarm[1]=10
 	objecttoshoot.hp-=damage
+	if (objecttoshoot.hp<=0){
+		instance_destroy(objecttoshoot)
+	}
 	alarm[0]=rate
 	
 }else{

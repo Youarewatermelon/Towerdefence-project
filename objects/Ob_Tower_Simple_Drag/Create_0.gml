@@ -5,9 +5,9 @@ rate=30;
 price=100;
 damage=30;
 
-placed=false
 
-drag=Ob_Tower_Simple_Drag
+
+dragged=Ob_Tower_Simple_Dragged
 
 range=350
 

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite11",
-    "path":"sprites/Sprite11/Sprite11.yy",
+    "name":"Sp_Goto_Level",
+    "path":"sprites/Sp_Goto_Level/Sp_Goto_Level.yy",
   },
   "spriteMaskId":null,
   "visible":true,

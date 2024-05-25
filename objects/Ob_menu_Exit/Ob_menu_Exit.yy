@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite11_1",
-    "path":"sprites/Sprite11_1/Sprite11_1.yy",
+    "name":"Sp_Goto_Exit",
+    "path":"sprites/Sp_Goto_Exit/Sp_Goto_Exit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

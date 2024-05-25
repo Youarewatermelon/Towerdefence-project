@@ -7,7 +7,7 @@ damage=130;
 
 placed=false
 
-drag=Ob_Tower_Sniper_Drag
+dragged=Ob_Tower_Sniper_Dragged
 
 range=650
 

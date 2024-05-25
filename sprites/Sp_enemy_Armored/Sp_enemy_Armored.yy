@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Sp_enemy_Armored",
+  "%Name":"Sp_Enemy_Armored",
   "bboxMode":0,
   "bbox_bottom":74,
   "bbox_left":0,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"4a454767-523a-42d6-9af3-2302224ec893","blendMode":0,"displayName":"default","isLocked":false,"name":"4a454767-523a-42d6-9af3-2302224ec893","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Sp_enemy_Armored",
+  "name":"Sp_Enemy_Armored",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Sp_enemy_Armored",
+    "%Name":"Sp_Enemy_Armored",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Sp_enemy_Armored",
+    "name":"Sp_Enemy_Armored",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"35b65d9b-8abc-44ae-8db2-3708cc1779c8","path":"sprites/Sp_enemy_Armored/Sp_enemy_Armored.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"35b65d9b-8abc-44ae-8db2-3708cc1779c8","path":"sprites/Sp_Enemy_Armored/Sp_Enemy_Armored.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6bda74e0-634e-4127-b128-aaac5f311d28","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

@@ -11,10 +11,7 @@
     "name":"Towers",
     "path":"folders/Objects/Levels/Towers.yy",
   },
-  "parentObjectId":{
-    "name":"Ob_Tower_Simple_Dragged",
-    "path":"objects/Ob_Tower_Simple_Dragged/Ob_Tower_Simple_Dragged.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
