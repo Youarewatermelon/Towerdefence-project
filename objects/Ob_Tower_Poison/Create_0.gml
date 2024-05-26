@@ -1,13 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-name="Лазер";
-rate=120;
-price=200;
-damage=1;
+name="Станер";
+rate=80;
+price=130;
+damage=30;
 
 placed=false
 
-dragged=Ob_Tower_Lazer_Dragged
+drag=Ob_Tower_Poison_Drag
 
 range=400
 

@@ -13,13 +13,16 @@ if (position_meeting(mouse_x, mouse_y, self)){
 			if (!shooting){
 				alarm[0]=rate
 				shooting=true
-				
 			}
 			objecttoshoot=en
 		}else{
 			shooting=false
 			objecttoshoot=noone
 	}
-	
 	}
 	
+	if line=true{
+	draw_line_width_color(x,y,En_x,En_y,4,c_white,c_white)
+	
+	
+}

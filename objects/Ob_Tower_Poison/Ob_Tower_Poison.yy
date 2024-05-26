@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"Ob_Tower_Stuner_Drag",
+  "%Name":"Ob_Tower_Poison",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Ob_Tower_Stuner_Drag",
+  "name":"Ob_Tower_Poison",
   "overriddenProperties":[],
   "parent":{
     "name":"Towers",
     "path":"folders/Objects/Levels/Towers.yy",
   },
   "parentObjectId":{
-    "name":"Ob_Towers_Drag",
-    "path":"objects/Ob_Towers_Drag/Ob_Towers_Drag.yy",
+    "name":"Ob_Towers",
+    "path":"objects/Ob_Towers/Ob_Towers.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Tower_Lazer",
-    "path":"sprites/Sp_Tower_Lazer/Sp_Tower_Lazer.yy",
+    "name":"Sp_Tower_Stuner",
+    "path":"sprites/Sp_Tower_Stuner/Sp_Tower_Stuner.yy",
   },
   "spriteMaskId":null,
   "visible":true,

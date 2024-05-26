@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 name="Снайпер";
-rate=100;
+rate=120;
 price=150;
-damage=130;
+damage=110;
 
 placed=false
 

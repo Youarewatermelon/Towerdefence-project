@@ -1,22 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"Ob_Tower_Stuner_Dragged",
+  "%Name":"Ob_Tower_Poison_Drag",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Ob_Tower_Stuner_Dragged",
+  "name":"Ob_Tower_Poison_Drag",
   "overriddenProperties":[],
   "parent":{
     "name":"Towers",
     "path":"folders/Objects/Levels/Towers.yy",
   },
   "parentObjectId":{
-    "name":"Ob_Towers_Dragged",
-    "path":"objects/Ob_Towers_Dragged/Ob_Towers_Dragged.yy",
+    "name":"Ob_Towers_Drag",
+    "path":"objects/Ob_Towers_Drag/Ob_Towers_Drag.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -36,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sp_Tower_Lazer",
-    "path":"sprites/Sp_Tower_Lazer/Sp_Tower_Lazer.yy",
+    "name":"Sp_Tower_Stuner",
+    "path":"sprites/Sp_Tower_Stuner/Sp_Tower_Stuner.yy",
   },
   "spriteMaskId":null,
   "visible":true,
