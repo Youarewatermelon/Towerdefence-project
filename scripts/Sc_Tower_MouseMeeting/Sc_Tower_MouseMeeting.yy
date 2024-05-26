@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Sc_Tower_MouseMeeting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sc_Tower_MouseMeeting",
+  "parent":{
+    "name":"Towers",
+    "path":"folders/Scripts/Towers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
