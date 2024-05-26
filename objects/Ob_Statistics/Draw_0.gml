@@ -20,6 +20,12 @@ draw_text(x+120,y+270,"убито:" +string( global.killed_Heal))
 draw_sprite(Sp_Enemy_Armored,-1,x+60,y+420)
 draw_text(x+120,y+390,"убито:" +string( global.killed_Armored))
 
+draw_sprite(Sp_Enemy_Trick,-1,x+60,y+540)
+draw_text(x+120,y+505,"убито:" +string( global.killed_Tricker))
+
+draw_sprite(Sp_Enemy_Tricker,-1,x+60,y+660)
+draw_text(x+120,y+620,"убито:" +string( global.Trick))
+
 
 
 
