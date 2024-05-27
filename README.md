@@ -1,6 +1,6 @@
 # Towerdefence-project
 
-Student`s tower defence game
+Ogerelie Tower Defence game
 
 Компьютерная 2D игра с видом сверху в жанре tower defence на движке Game Maker.
 
