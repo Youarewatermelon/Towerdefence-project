@@ -6,7 +6,7 @@ if instance_exists(objecttoshoot){
 	
 	alarm[1]=30
 	line=true
-	 objecttoshoot.alarm[11]=60
+	 objecttoshoot.alarm[11]=90
 	objecttoshoot.hp-=damage
 	
 	if (objecttoshoot.hp<=0){

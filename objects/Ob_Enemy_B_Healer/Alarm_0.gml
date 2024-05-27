@@ -1,3 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(Ro_Menu)
+
+alarm[0]=15
+
+with Ob_Enemies{
+	n=!self
+	n.hp+=heal
+
+}

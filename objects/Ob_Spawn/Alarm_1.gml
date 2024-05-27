@@ -5,7 +5,13 @@ if spawn_coins<=0{
 	level+=1
 	
 	waveEnd=true
-	spawn_coins = 20+4*level;
+	spawn_coins = 30+3*level;
+	
+	if global.wave%10==0{
+		randomize()
+		instance_create_depth(x,y,-9,global.Bosses[1])
+		level*=0.8
+	}
 }else{
 if (i<=len and spawn_coins>0) {
 instance_create_depth(x+random_range(-30,30),y+random_range(-30,30),-9,type)

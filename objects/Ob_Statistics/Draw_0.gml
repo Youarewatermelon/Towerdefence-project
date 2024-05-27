@@ -27,6 +27,10 @@ draw_sprite(Sp_Enemy_Tricker,-1,x+60,y+660)
 draw_text(x+120,y+620,"убито:" +string( global.Trick))
 
 
+///draw_sprite(Sp_Enemy_B_Healer,-1,x+1000,y+390)
+///draw_text(x+1080,y+360,"убито:" +string( global.killed_B_Healer))
 
+draw_sprite(Sp_Enemy_B_Armorer,-1,x+1000,y+540)
+draw_text(x+1080,y+505,"убито:" +string( global.killed_B_Armorer))
 
 

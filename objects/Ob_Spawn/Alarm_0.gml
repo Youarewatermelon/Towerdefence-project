@@ -3,7 +3,7 @@
 
  type= global.Enemies_types[choose(0,1,2,3,4)]
  len=random_range(3,10+level)
- if (level<50){
+ if (level<60){
  max_time=60-1*level
  min_time=1
  }

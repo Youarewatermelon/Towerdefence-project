@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 name="Лазер";
-rate=110;
-price=170;
+rate=130;
+price=175;
 damage=1;
 
 placed=false

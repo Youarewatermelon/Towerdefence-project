@@ -13,6 +13,12 @@ global.killed_Heal=0
 global.killed_Armored=0
 global.Trick=0
 global.killed_Tricker=0
+
+global.killed_B_Healer=0
+global.killed_B_Armorer=0
+
+global.armorThere=false
+
 global.wave=1
 randomise();
 window_set_fullscreen(true) // Выключаем полноэкранный режим при запуске :)
